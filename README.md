@@ -1,7 +1,7 @@
-# my-first-website
+<h1 align="center">My first website</h1>
  
   <div align="center"> 
-  <img src= width=20%>
+  <img src="giyu.jfif" width=20%>
   </div>
 
 ## Quick Introduction
