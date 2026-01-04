@@ -7,3 +7,6 @@
 ## Quick Introduction
 
   In this repo you will see an html css wesbite i made as my first project.
+
+## Take a look here
+https://mizuto.netlify.app/
